@@ -1,0 +1,35 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    
+}
+
+/* ------------------------------------------------ */
+
+.body {
+    display: flex;
+}
+
+.sideBar {
+    width: 150px;
+}
+
+#gridBoard {
+    width: 560px;
+    height: 560px;
+    display: grid;
+    border: 2px double blue;
+}
+
+
+/* ------------------------------------------------ */
+
+footer {
+    margin: 1rem 0;
+    font-size: 2rem;
+    text-align: center;
+}
